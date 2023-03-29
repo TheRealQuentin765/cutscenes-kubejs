@@ -1,0 +1,9 @@
+{
+    "author": "Quentin765",
+    "description": "A (pair) of scripts to make animated (2d) cutscenes in game (using painter) (like ponderjs). Might work on other version, but untested.",
+    
+    "versions": [8],
+    "modloaders": ["forge"],
+    "dependencies": [],
+    "incompatibilities": []
+}
